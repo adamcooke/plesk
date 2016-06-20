@@ -1,0 +1,23 @@
+PATH
+  remote: .
+  specs:
+    plesk-ruby (1.0.0)
+      nokogiri (>= 1.6.7, < 1.8)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    mini_portile2 (2.1.0)
+    nokogiri (1.6.8)
+      mini_portile2 (~> 2.1.0)
+      pkg-config (~> 1.1.7)
+    pkg-config (1.1.7)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  plesk-ruby!
+
+BUNDLED WITH
+   1.11.2
